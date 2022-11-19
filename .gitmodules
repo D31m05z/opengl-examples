@@ -1,12 +1,12 @@
 [submodule "raytrace-gl-lesson03"]
 	path = raytrace-gl-lesson03
-	url = git@github.com:D31m05z/raytrace-gl-lesson03.git
+	url = https://github.com/D31m05z/raytrace-gl-lesson03.git
 [submodule "seal-gl-lesson04"]
 	path = seal-gl-lesson04
-	url = git@github.com:D31m05z/seal-gl-lesson04.git
+	url = https://github.com/D31m05z/seal-gl-lesson04.git
 [submodule "spline-gl-lesson02"]
 	path = spline-gl-lesson02
-	url = git@github.com:D31m05z/spline-gl-lesson02.git
+	url = https://github.com/D31m05z/spline-gl-lesson02.git
 [submodule "breakout-gl-lesson01"]
 	path = breakout-gl-lesson01
-	url = git@github.com:D31m05z/breakout-gl-lesson01.git
+	url = https://github.com/D31m05z/breakout-gl-lesson01.git
